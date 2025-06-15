@@ -1,2 +1,2 @@
 # Quiz-App-Using-Tkinter
-A minimal Tkinter-based Python quiz app with MCQs (4 options), next/previous navigation, score-based feedback ("Good", "Very Good", "Excellent"), and auto-close after completion. Features a light cyan background.
+A simple GUI-based quiz application built with Python and Tkinter. Features multiple-choice questions (MCQs) with 4 options, navigation (next/previous), and a final score display with custom messages ("Good", "Very Good", "Excellent") based on performance. Questions are hardcoded (simulating JSON/text file input), and the app auto-closes after showing the score. Includes a light cyan background for a clean look.
